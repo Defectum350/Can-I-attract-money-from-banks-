@@ -34,85 +34,85 @@
 
 ### При сравнении значений месяца нет большой разницы.
 <img src="https://github.com/Defectum350/images/blob/main/%D0%BC%D0%BE%D0%B3%D1%83%20%D0%BB%D0%B8/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20(1).png?raw=true"/>
-<img src="https://github.com/Defectum350/images/blob/main/%D0%BC%D0%BE%D0%B3%D1%83%20%D0%BB%D0%B8/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F(2).png?raw=true"/>
-<img src="https://github.com/Defectum350/images/blob/main/%D0%BC%D0%BE%D0%B3%D1%83%20%D0%BB%D0%B8/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F(3).png?raw=true"/>
+<img src="https://github.com/Defectum350/images/blob/main/%D0%BC%D0%BE%D0%B3%D1%83%20%D0%BB%D0%B8/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20(2).png?raw=true"/>
+<img src="https://github.com/Defectum350/images/blob/main/%D0%BC%D0%BE%D0%B3%D1%83%20%D0%BB%D0%B8/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20(3).png?raw=true"/>
 
 ### Порядок по количеству человек: 20, 30, 40, 10, 50.
 ### Порядок кредитного рейтинга: 50, 40, 30, 20, 10.
 ### Кредитный рейтинг большинства людей является стандартным.
 ### Нет большой разницы между количеством людей с хорошим кредитным рейтингом в 20, 30, 40 лет.
 
-<img src="https://github.com/Defectum350/images/blob/main/%D0%BC%D0%BE%D0%B3%D1%83%20%D0%BB%D0%B8/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F(4).png?raw=true"/>
+<img src="https://github.com/Defectum350/images/blob/main/%D0%BC%D0%BE%D0%B3%D1%83%20%D0%BB%D0%B8/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20(4).png?raw=true"/>
 
 ### Между профессиями нет большой разницы.
 
-<img src="https://github.com/Defectum350/images/blob/main/%D0%BC%D0%BE%D0%B3%D1%83%20%D0%BB%D0%B8/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F(5).png?raw=true"/>
+<img src="https://github.com/Defectum350/images/blob/main/%D0%BC%D0%BE%D0%B3%D1%83%20%D0%BB%D0%B8/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20(5).png?raw=true"/>
 
 ### По мере увеличения количества банковских счетов кредитный рейтинг снижается.
 ### Форма падающего графика ближе к форме лестницы, чем к прямой.
 
-<img src="https://github.com/Defectum350/images/blob/main/%D0%BC%D0%BE%D0%B3%D1%83%20%D0%BB%D0%B8/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F(6).png?raw=true"/>
+<img src="https://github.com/Defectum350/images/blob/main/%D0%BC%D0%BE%D0%B3%D1%83%20%D0%BB%D0%B8/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20(6).png?raw=true"/>
 
 ### По мере увеличения количества кредитных карт кредитный рейтинг уменьшается.
 ### Когда количество кредитных карт составляет 2-3 или 7-8, кредитный рейтинг значительно падает.
 
-<img src="https://github.com/Defectum350/images/blob/main/%D0%BC%D0%BE%D0%B3%D1%83%20%D0%BB%D0%B8/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F(7).png?raw=true"/>
+<img src="https://github.com/Defectum350/images/blob/main/%D0%BC%D0%BE%D0%B3%D1%83%20%D0%BB%D0%B8/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20(7).png?raw=true"/>
 
 ### Когда процентная ставка составляет 89 и 2021, кредитный рейтинг значительно снижается.
 ### По мере увеличения процентной ставки кредитный рейтинг уменьшается.
 
-<img src="https://github.com/Defectum350/images/blob/main/%D0%BC%D0%BE%D0%B3%D1%83%20%D0%BB%D0%B8/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F(8).png?raw=true"/>
+<img src="https://github.com/Defectum350/images/blob/main/%D0%BC%D0%BE%D0%B3%D1%83%20%D0%BB%D0%B8/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20(8).png?raw=true"/>
 
-<img src="https://github.com/Defectum350/images/blob/main/%D0%BC%D0%BE%D0%B3%D1%83%20%D0%BB%D0%B8/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F(9).png?raw=true"/>
+<img src="https://github.com/Defectum350/images/blob/main/%D0%BC%D0%BE%D0%B3%D1%83%20%D0%BB%D0%B8/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20(9).png?raw=true"/>
 
 ### По мере увеличения количества кредитов кредитный рейтинг снижается.
 ### Количество людей, которые брали кредиты, больше всего в номерах 2, 3 и 4. И вы можете видеть, что есть даже люди, которые получили номера 8 и 9.
 ### Видно, что кредитный рейтинг резко падает от количества взятых кредитов с 1 на 2, с 4 на 5. В частности, действительно значительное снижение можно увидеть с 4 на #### 5.
 
-<img src="https://github.com/Defectum350/images/blob/main/%D0%BC%D0%BE%D0%B3%D1%83%20%D0%BB%D0%B8/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F(10).png?raw=true"/>
+<img src="https://github.com/Defectum350/images/blob/main/%D0%BC%D0%BE%D0%B3%D1%83%20%D0%BB%D0%B8/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20(10).png?raw=true"/>
 
-<img src="https://github.com/Defectum350/images/blob/main/%D0%BC%D0%BE%D0%B3%D1%83%20%D0%BB%D0%B8/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F(11).png?raw=true"/>
+<img src="https://github.com/Defectum350/images/blob/main/%D0%BC%D0%BE%D0%B3%D1%83%20%D0%BB%D0%B8/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20(11).png?raw=true"/>
 
 ### Большинству людей еще предстоит заплатить от 8 до 20 видов денег.
 ### Чем выше количество просроченных платежей, тем ниже кредитный рейтинг, который почти прямой.
 
-<img src="https://github.com/Defectum350/images/blob/main/%D0%BC%D0%BE%D0%B3%D1%83%20%D0%BB%D0%B8/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F(12).png?raw=true"/>
+<img src="https://github.com/Defectum350/images/blob/main/%D0%BC%D0%BE%D0%B3%D1%83%20%D0%BB%D0%B8/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20(12).png?raw=true"/>
 
-<img src="https://github.com/Defectum350/images/blob/main/%D0%BC%D0%BE%D0%B3%D1%83%20%D0%BB%D0%B8/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F(13).png?raw=true"/>
+<img src="https://github.com/Defectum350/images/blob/main/%D0%BC%D0%BE%D0%B3%D1%83%20%D0%BB%D0%B8/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20(13).png?raw=true"/>
 
 ### Кредитный микс, оплата минимальной суммы, имеет прямое отношение к кредитному рейтингу.
 
-<img src="https://github.com/Defectum350/images/blob/main/%D0%BC%D0%BE%D0%B3%D1%83%20%D0%BB%D0%B8/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F(14).png?raw=true"/>
-<img src="https://github.com/Defectum350/images/blob/main/%D0%BC%D0%BE%D0%B3%D1%83%20%D0%BB%D0%B8/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F(15).png?raw=true"/>
+<img src="https://github.com/Defectum350/images/blob/main/%D0%BC%D0%BE%D0%B3%D1%83%20%D0%BB%D0%B8/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20(14).png?raw=true"/>
+<img src="https://github.com/Defectum350/images/blob/main/%D0%BC%D0%BE%D0%B3%D1%83%20%D0%BB%D0%B8/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20(15).png?raw=true"/>
 
 ### Максимальное количество людей в группе Low_spent_Medium_value_payments. Но их кредитные рейтинги самые низкие.
 ### Люди из группы High_spent_Large_value_payments имеют лучшие кредитные рейтинги.
 
-<img src="https://github.com/Defectum350/images/blob/main/%D0%BC%D0%BE%D0%B3%D1%83%20%D0%BB%D0%B8/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F(16).png?raw=true"/>
+<img src="https://github.com/Defectum350/images/blob/main/%D0%BC%D0%BE%D0%B3%D1%83%20%D0%BB%D0%B8/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20(16).png?raw=true"/>
 ### Можно видеть, что ежемесячный баланс наибольшего числа людей по группе кредитного рейтинга тем выше, чем лучше кредитный рейтинг.
-<img src="https://github.com/Defectum350/images/blob/main/%D0%BC%D0%BE%D0%B3%D1%83%20%D0%BB%D0%B8/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F(17).png?raw=true"/>
+<img src="https://github.com/Defectum350/images/blob/main/%D0%BC%D0%BE%D0%B3%D1%83%20%D0%BB%D0%B8/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20(17).png?raw=true"/>
 ### Люди с хорошим кредитным рейтингом имеют более высокое распределение месячной заработной платы, чем люди со средним или плохим кредитным рейтингом.
-<img src="https://github.com/Defectum350/images/blob/main/%D0%BC%D0%BE%D0%B3%D1%83%20%D0%BB%D0%B8/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F(18).png?raw=true"/>
+<img src="https://github.com/Defectum350/images/blob/main/%D0%BC%D0%BE%D0%B3%D1%83%20%D0%BB%D0%B8/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20(18).png?raw=true"/>
 
 ### Люди с хорошим кредитным рейтингом имеют более высокое распределение годового дохода, чем люди со средним или плохим кредитом.
 ### Если вы посмотрите на график годового дохода, а не на график месячной заработной платы, вы сможете увидеть разницу между тремя группами более четко.
 
-<img src="https://github.com/Defectum350/images/blob/main/%D0%BC%D0%BE%D0%B3%D1%83%20%D0%BB%D0%B8/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F(19).png?raw=true"/>
-<img src="https://github.com/Defectum350/images/blob/main/%D0%BC%D0%BE%D0%B3%D1%83%20%D0%BB%D0%B8/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F(20).png?raw=true"/>
-<img src="https://github.com/Defectum350/images/blob/main/%D0%BC%D0%BE%D0%B3%D1%83%20%D0%BB%D0%B8/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F(21).png?raw=true"/>
-<img src="https://github.com/Defectum350/images/blob/main/%D0%BC%D0%BE%D0%B3%D1%83%20%D0%BB%D0%B8/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F(22).png?raw=true"/>
+<img src="https://github.com/Defectum350/images/blob/main/%D0%BC%D0%BE%D0%B3%D1%83%20%D0%BB%D0%B8/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20(19).png?raw=true"/>
+<img src="https://github.com/Defectum350/images/blob/main/%D0%BC%D0%BE%D0%B3%D1%83%20%D0%BB%D0%B8/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20(20).png?raw=true"/>
+<img src="https://github.com/Defectum350/images/blob/main/%D0%BC%D0%BE%D0%B3%D1%83%20%D0%BB%D0%B8/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20(21).png?raw=true"/>
+<img src="https://github.com/Defectum350/images/blob/main/%D0%BC%D0%BE%D0%B3%D1%83%20%D0%BB%D0%B8/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20(22).png?raw=true"/>
 
 ### Распределение категорий кредитного рейтинга следующее: Стандартный рейтинг занимает 53% распределения, плохой 29% и 18% хороший
 ### После визуального анализа данных я устранил дисбаланс классов при помощи SMOTE метода
 ### Выбрал XGBClassifier и обучил модель на всех тренировочных данных
 
-<img src="https://github.com/Defectum350/images/blob/main/%D0%BC%D0%BE%D0%B3%D1%83%20%D0%BB%D0%B8/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F(23).png?raw=true"/>
+<img src="https://github.com/Defectum350/images/blob/main/%D0%BC%D0%BE%D0%B3%D1%83%20%D0%BB%D0%B8/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20(23).png?raw=true"/>
 
 ### Визуализировав confusion matrix, проглядывается то, что модель отлично справляется с классификацией всех 3 классов практически в равной мере
 ### Теперь необходимо сделать предикт на новых тестовых данных и в следствии визуального анализа выявить какие-либо аномалии в новых данных
 
-<img src="https://github.com/Defectum350/images/blob/main/%D0%BC%D0%BE%D0%B3%D1%83%20%D0%BB%D0%B8/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F(24).png?raw=true"/>
-<img src="https://github.com/Defectum350/images/blob/main/%D0%BC%D0%BE%D0%B3%D1%83%20%D0%BB%D0%B8/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F(25).png?raw=true"/>
+<img src="https://github.com/Defectum350/images/blob/main/%D0%BC%D0%BE%D0%B3%D1%83%20%D0%BB%D0%B8/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20(24).png?raw=true"/>
+<img src="https://github.com/Defectum350/images/blob/main/%D0%BC%D0%BE%D0%B3%D1%83%20%D0%BB%D0%B8/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20(25).png?raw=true"/>
 
 ### Соотношение по возрастному диапозону также сильно не отличается от распределения в размеченном датасете
 
